@@ -2,8 +2,5 @@
 	"port": 8080,
 	"logfile": "logs/nosh.log",
 	"datasource": "http://data.sfgov.org/resource/rqzj-sfat.json",
-	"mongo_dbname": "dbname",
-	"mongo_server": "http://localhost:27017",
-	"mongo_username": "nodejutisu",
-	"mongo_password": "1234"
+	"memcached_server": "127.0.0.1:11211"
 }

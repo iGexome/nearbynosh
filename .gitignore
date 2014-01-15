@@ -1,0 +1,4 @@
+.DS_Store
+*.log
+overrides.json
+node_modules/

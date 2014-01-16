@@ -5,8 +5,8 @@ A small web app to help locate food trucks near you.
 
 *San Francisco, CA only.*
 
-##Setup:
-* Acquire an API key for [Google Maps](https://developers.google.com/maps/documentation/javascript/tutorial#api_key)
+##Try it:
+* Visit [Nodejitsu](http://nearbynosh.nodejitsu.com/)
 
 ##Post-mortem:
 Given that this was hacked out over two evenings, there are many other improvements that could be made.
@@ -18,6 +18,7 @@ I also encountered having to switch memcached client libraries as part of deploy
 * roll up JS / CSS, either as part of a build (via Grunt) or when the page is served
 * serve assets from a CDN
 * allow for a control to expand/decrease the search radius
+* serve up the HTML file with external properties (e.g. server endpoint) loaded in
 * work with a user-experience developer :)
 
 **Backend:**

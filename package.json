@@ -13,7 +13,9 @@
   "devDependencies": {
     "winston": "0.7.2",
     "underscore": "1.5.2",
-    "memcached": "0.2.6",
-    "geolib": "1.3.5"
+    "memjs": "0.8.1",
+    "geolib": "1.3.5",
+    "connect": "2.12.0",
+    "compression": "1.0.0"
   }
 }

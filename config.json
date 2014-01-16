@@ -1,7 +1,6 @@
 {
-	"port": 8080,
+	"port": 80,
 	"logfile": "logs/nosh.log",
 	"datasource_remote": "http://data.sfgov.org/resource/rqzj-sfat.json",
-    "datasource": "dataset/rqzj-sfat.json",
-	"memcached_server": "127.0.0.1:11211"
+    "datasource": "dataset/rqzj-sfat.json"
 }

@@ -1,7 +1,8 @@
 {
   "name": "nearby-nosh",
   "version": "0.1.0",
-  "main": "./server.js",
+  "main": "server.js",
+  "author": "Braden Allchin",
   "repository": {
     "type": "git",
     "url": "https://github.com/igexome/nearbynosh"
